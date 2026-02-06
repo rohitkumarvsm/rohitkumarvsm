@@ -1,11 +1,16 @@
 # Rohit Kumar Vasamsetti
-Static Website
+# Hi there, I'm Rohit Kumar vasamsetti 👋
 
+### 🚀 About Me
+- 🔭 I’m currently working as **Principal Consultant @ Affintrix Pvt. Ltd.**
+- 🌱 I’m currently learning about **GenAI**
+- 💬 Ask me about **Software Engineering/Product Designing**
+- 📫 How to reach me: **[[Email/LinkedIn Link]](https://www.linkedin.com/in/rohitkumarvasamsetti/)**
+- ⚡ Interests: **Creating Open Source tools or Software**
 
-echo "# RohitKumarVasamsetti" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/rohitkumarvsm/RohitKumarVasamsetti.git
-git push -u origin master
+### 🛠 Tech Stack
+- Java, Spring
+- Angular, javascript, HTML, CSS
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app[rohitkumrvsm]&show_icons=true&theme=radical)
