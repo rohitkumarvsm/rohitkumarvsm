@@ -13,4 +13,4 @@
 - Angular, javascript, HTML, CSS
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app[rohitkumrvsm]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app?username=rohitkumrvsm&show_icons=true&theme=radical)
