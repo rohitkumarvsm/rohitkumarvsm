@@ -13,4 +13,4 @@
 - Angular, javascript, HTML, CSS
 
 ### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app)
+![My Stats](https://github-readme-stats-eight-theta.vercel.app)
